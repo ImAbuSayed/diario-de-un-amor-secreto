@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/diario-de-un-amor-secreto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Diario de un amor secreto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diario-de-un-amor-secreto/) |
+| **Get License** | [Obtain a Music License for Diario de un amor secreto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diario-de-un-amor-secreto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, este secreto ya no lo puedo guardar
+> Tus ojos me llaman, me invitan a pecar
+> Bajo las luces de Madrid te quiero robar
+> Somos un misterio que la noche va a callar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
