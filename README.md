@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/diario-de-un-amor-secreto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Diario de un amor secreto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diario-de-un-amor-secreto/) |
+| **Get License** | [Music Rights & Licensing for Diario de un amor secreto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diario-de-un-amor-secreto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8da0ce272301f9f96509fddf475c55efba67ba8b75196708f29f209565efaa00` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

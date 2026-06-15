@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Diario de un amor secreto
+
+This log tracks the cryptographic history and versioning for the song **Diario de un amor secreto** (diario-de-un-amor-secreto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T20:39:22.814835 | `v1` | `8da0ce272301f9f96509fddf475c55efba67ba8b75196708f29f209565efaa00` | `a908a2f10cd532b090c8747d0a29dfe0e004a498a9ae85ac3273cbb8279cf6aa` | `2026-06-15_diario-de-un-amor-secreto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
